@@ -1,0 +1,36 @@
+.about-block2{
+    padding: 20px;
+ 
+    h4{
+        margin: 1rem;
+    }
+    p{
+        padding: 20px;
+    }
+}
+
+.contact-cont{
+    // border: 2px solid aqua;
+    border-bottom: none;
+    padding: 5rem 1rem;
+}
+
+.sendmail, .callus{
+    margin: 0rem auto;
+    // margin: 1rem auto;
+    border: 2px solid aqua;
+    padding: 2rem;
+    text-align: center;
+    h4{
+        margin: 1rem;
+    }
+
+    #sendmail, #callus{
+        padding: 10px;
+        background-color: transparent;
+        margin: 2rem;
+        font-size: 20px;
+        color: #fff;
+        text-decoration: none;
+    }
+}
